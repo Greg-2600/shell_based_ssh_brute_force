@@ -10,7 +10,7 @@ dependency() {
 main() {
   hosts="192.168.1.1"
   users="aye bee sea dee"
-  passwords="alpha beta charlie delta"
+  passwords="alpha bravo charlie delta"
 
   for host in $hosts; do
     for user in $users; do
